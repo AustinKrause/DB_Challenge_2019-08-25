@@ -31,14 +31,73 @@ number of orders placed by a customer who has previously placed an order</li>
   
 <h3>Preview of Dataframe</h3>
 <p align="center">
-  Preview of dataframe<br>
-  <img src='Images/inital_df_preview.png'><br>
+  <img src='Code_Images/preview_of_df.png'><br>
 </p> 
 <br>
 
-<h3>1</h3>
 <p align="center">
-  Preview of dataframe<br>
-  <img src='Images/inital_df_preview.png'><br>
+  <img src='Code_Images/1.1.png'><br>
 </p> 
+
+<p align="center">
+  <img src='Code_Images/1.2.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Code_Images/1.3.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_1_results.png'><br>
+</p> 
+<br>
+
+<p align="center">
+  <img src='Code_Images/2.1.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_2_results.png'><br>
+</p> 
+<br>
+
+<p align="center">
+  <img src='Code_Images/3.1.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_3_results.png'><br>
+</p> 
+<br>
+
+<p align="center">
+  <img src='Code_Images/4.1.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_4_results.png'><br>
+</p> 
+<br>
+
+<p align="center">
+  <img src='Code_Images/5.1.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Code_Images/5.2.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_5_results.png'><br>
+</p> 
+<br>
+
+<p align="center">
+  <img src='Code_Images/6.1.png'><br>
+</p> 
+
+<p align="center">
+  <img src='Results/query_6_results.png'><br>
+</p> 
+<br>
 <br>
