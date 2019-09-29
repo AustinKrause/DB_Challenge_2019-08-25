@@ -18,7 +18,7 @@
   
 <b>Tasks:</b>
 <ol>
-<li>We need basic insight into hourly sales performance. We'd like a query that shows the following metrics by hour:<br>
+<li>We need basic insights into hourly sales performance. We'd like a query that shows the following metrics by hour:<br>
 revenue (total_price less total_tax)<br>
 total number of orders<br>
 number of orders placed by a customer who has previously placed an order</li>
